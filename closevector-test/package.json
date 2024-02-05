@@ -1,0 +1,12 @@
+{
+  "name": "closevector-test",
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "fake-indexeddb": "^5.0.2",
+    "happy-dom": "^13.3.8",
+    "vitest": "^1.2.2"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
